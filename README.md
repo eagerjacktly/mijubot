@@ -2,8 +2,6 @@
 
 "# temporary"
 
-This page was created to prepare for an interview.
-
 mijubot.py is designed to respond to Messegenr's commands.
 
 supported command
